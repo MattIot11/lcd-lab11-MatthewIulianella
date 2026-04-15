@@ -24,7 +24,7 @@ void reactionGame() {
 
 
   lcd.clear();                 
-  lcd.print("Press NOW!");  // Ask the player to press the button as fast as possible
+  lcd.print("Press fast NOW!");  // Ask the player to press the button as fast as possible
   delay(randNum);
 
 
